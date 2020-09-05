@@ -1,0 +1,3 @@
+environment_tag="prod"
+eks_instance_max_count=3
+eks_instance_type="m5.xlarge"
